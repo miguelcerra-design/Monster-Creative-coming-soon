@@ -1,0 +1,82 @@
+.footer {
+    width: 100%;
+    @include flex(row, nowrap, space-between, center);
+    padding: 2em;
+
+    @include media() {
+        @include flex(column, nowrap, space-between, center);
+        gap: 1em;
+        text-align: center;
+    }
+
+    &__left {
+        width: 100%;
+        max-width: max-content;
+
+    }
+
+    &__right {
+        width: 100%;
+        max-width: max-content;
+        gap: 1em;
+        @include flex(row, nowrap, space-between, center);
+
+        @include media () {
+            @include flex(column, nowrap, space-between, center);
+            gap: 2em;
+
+        }
+
+        ;
+
+    }
+
+    &__link {
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    &__social {
+        width: max-content;
+        @include flex(row, nowrap, space-between, center);
+        gap: 1.5em;
+    }
+
+    &__item {
+        width: max-content;
+
+    }
+
+    &__icon {
+        width: 1.5rem;
+        height: 1.5rem;
+
+    }
+
+    &__svg {
+        width: 100%;
+        color: var(--brand-black);
+        fill: currentColor;
+
+        &--whatsapp {
+            &:hover {
+                color: green;
+            }
+        }
+
+        &--instagram {
+            &:hover {
+                color: #f36477;
+                background-image: url(../assets/icons/linear/instagram-color.svg);
+            }
+        }
+
+        &--facebook {
+            &:hover {
+                color: #3b5998;
+            }
+        }
+    }
+
+}

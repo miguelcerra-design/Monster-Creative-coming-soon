@@ -1,0 +1,48 @@
+:root {
+    /* Colors base*/
+    --black: #101010;
+    --white: #fdfdfd;
+
+    /* Colors Brand */
+    --brand-black: #101010;
+    --brand--yellow-green: #ECFA01;
+
+    /* Colors button */
+    --button-black: #101010;
+    --button--yellow-green: #ECFA01;
+
+    /* Typography */
+    --brand--font: 'Black Han Sans', sans-serif;
+    --font-primary: 'Inter', sans-serif;
+}
+
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Colors base */
+        --black: #fdfdfd;
+        --white: #101010;
+
+        /* Colors Brand */
+        --brand-black: #ECFA01;
+        --brand--yellow-green: #101010;
+
+        /* Colors button */
+        --button-black: #ECFA01;
+        --button--yellow-green: #fdfdfd;
+
+    }
+}
+
+/*
+@media (prefers-contrast: high) {
+    :root {}
+}
+*/
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation: none !important;
+        transition: none !important;
+    }
+}
