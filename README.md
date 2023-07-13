@@ -1,13 +1,9 @@
 # Validación de Diplomas Uniautónoma
-![Imagen del proyecto](https://github.com/miguelcerra-design/Validacion-de-Diplomas-Uniautonoma/blob/main/resource/design/overall-picture.png?raw=true)
+![Imagen del proyecto](https://github.com/miguelcerra-design/Monster-Creative-coming-soon/blob/main/assets/design/overall-picture.png?raw=true)
 
 ## Ejemplo en vivo
-- [Ver sitio oficial](https://certificados.uac.edu.co/diplomas/)
-- [Ver página de validación manual - Github Page](https://miguelcerra-design.github.io/Validacion-de-Diplomas-Uniautonoma/)
-- [Ver página de diploma certificado - Github Page](https://miguelcerra-design.github.io/Validacion-de-Diplomas-Uniautonoma/documento_encontrado)
-- [Ver página de diploma inválido - Github Page](https://miguelcerra-design.github.io/Validacion-de-Diplomas-Uniautonoma/documento_no_encontrado)
-- [Ver página no encontrada - Github Page](https://miguelcerra-design.github.io/Validacion-de-Diplomas-Uniautonoma/404)
 
+- [Ver sitio - Github Page](https://miguelcerra-design.github.io/Monster-Creative-coming-soon/)
 
 ## Descripción 📑
 
