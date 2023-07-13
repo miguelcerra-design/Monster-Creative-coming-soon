@@ -1,4 +1,4 @@
-# Validación de Diplomas Uniautónoma
+# Monster Creative - Coming soon
 ![Imagen del proyecto](https://github.com/miguelcerra-design/Monster-Creative-coming-soon/blob/main/assets/design/overall-picture.png?raw=true)
 
 ## Ejemplo en vivo
